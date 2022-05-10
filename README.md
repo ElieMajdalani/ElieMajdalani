@@ -1,5 +1,5 @@
 ![](https://visitor-badge.glitch.me/badge?page_id=elie00001.elie00001)
-### Hi there 👋
+### Hi there <div style="width:100%;height:0;padding-bottom:73%;position:relative;"><iframe src="https://giphy.com/embed/Wj7lNjMNDxSmc" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/dog-miss-Wj7lNjMNDxSmc">via GIPHY</a></p>
 💬 Feel free to ask me about anything computer related <br>
 <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> Curently working on my full stack develover dream
 
