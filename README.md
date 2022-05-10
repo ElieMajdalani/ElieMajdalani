@@ -1,6 +1,6 @@
 ![](https://visitor-badge.glitch.me/badge?page_id=elie00001.elie00001)
 ### Hi there 👋
-💬 Feel free to ask me about anything computer related
+💬 Feel free to ask me about anything computer related <br>
 <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> Curently working on my full stack develover dream
 
 ![Github stats](https://github-readme-stats.vercel.app/api?username=elie00001)
