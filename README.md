@@ -1,4 +1,7 @@
-### Hi there 👋![](https://visitor-badge.glitch.me/badge?page_id=elie00001.elie00001)
+![](https://visitor-badge.glitch.me/badge?page_id=elie00001.elie00001)
+### Hi there 👋
+💬 Feel free to ask me about anything computer related
+![image](https://user-images.githubusercontent.com/81432506/167664635-8500bd11-e481-444b-abcb-81dd6a71c3e9.png) Curently working on my full stack develover dream
 
 ![Github stats](https://github-readme-stats.vercel.app/api?username=elie00001)
 
