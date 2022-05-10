@@ -1,5 +1,5 @@
 ![](https://visitor-badge.glitch.me/badge?page_id=elie00001.elie00001)
-### Hi there <img src="https://media.giphy.com/media/GkD4U3VfiIbzcBhQNu/giphy.gif" width="50>
+### Hi there 👋 
 💬 Feel free to ask me about anything computer related <br>
 <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> Curently working on my full stack develover dream
 
