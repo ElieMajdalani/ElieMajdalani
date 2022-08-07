@@ -6,8 +6,6 @@
 <img src="https://media4.giphy.com/media/yDM1kJZthxFPoGDdmq/giphy.gif?cid=ecf05e47fhj04vqsqi6xwqx16m9lyhpwp4tzf36slcuscdgx&rid=giphy.gif&ct=ts" width="50">Check me out <a href="https://www.linkedin.com/in/elie-majdalani-546872195/">here</a> on Linkedin too and feel free to drop a message 💬
 
 
-![Github stats](https://github-readme-stats.vercel.app/api?username=elie-majdalani)
-
 <!--**elie00001/elie00001** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
